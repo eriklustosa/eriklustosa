@@ -5,7 +5,7 @@
   Sou um estudante de <strong>Sistemas de Informação na Universidade Federal do Piauí (UFPI)</strong>, com previsão de conclusão em 2025.2. Tenho grande interesse na área de desenvolvimento de software e gestão de projetos de tecnologia.
 </p>
 <p>
-  Recentemente, fui premiado em <strong>1º lugar no XVI Seminário de Desenvolvimento Tecnológico e Inovação (SDTI) da UFPI</strong> pelo desenvolvimento de uma aplicação para análise de sinais EEG, um projeto que une meus conhecimentos em análise de dados e desenvolvimento back-end.
+  Fui premiado em <strong>1º lugar no XVI Seminário de Desenvolvimento Tecnológico e Inovação (SDTI) da UFPI</strong> pelo desenvolvimento de uma aplicação para análise de sinais EEG, um projeto que une meus conhecimentos em análise de dados e desenvolvimento back-end.
 </p>
 <p>
   Estou sempre buscando aprender novas tecnologias e metodologias para criar soluções inovadoras e eficientes.
